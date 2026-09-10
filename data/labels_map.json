@@ -1,0 +1,172 @@
+{
+  "labels": {
+    "apple": {
+      "name_vi": "Táo",
+      "category": "Trái cây",
+      "is_food": true
+    },
+    "banana": {
+      "name_vi": "Chuối",
+      "category": "Trái cây",
+      "is_food": true
+    },
+    "orange": {
+      "name_vi": "Cam",
+      "category": "Trái cây",
+      "is_food": true
+    },
+    "broccoli": {
+      "name_vi": "Bông cải xanh (Súp lơ)",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "carrot": {
+      "name_vi": "Cà rốt",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "tomato": {
+      "name_vi": "Cà chua",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "cucumber": {
+      "name_vi": "Dưa leo (Dưa chuột)",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "tofu": {
+      "name_vi": "Đậu phụ (Đậu hũ)",
+      "category": "Đạm thực vật",
+      "is_food": true
+    },
+    "fried_tofu": {
+      "name_vi": "Đậu hũ chiên",
+      "category": "Đạm thực vật",
+      "is_food": true
+    },
+    "mushroom": {
+      "name_vi": "Nấm",
+      "category": "Đạm thực vật / Rau củ",
+      "is_food": true
+    },
+    "straw_mushroom": {
+      "name_vi": "Nấm rơm",
+      "category": "Đạm thực vật / Rau củ",
+      "is_food": true
+    },
+    "king_oyster_mushroom": {
+      "name_vi": "Nấm đùi gà",
+      "category": "Đạm thực vật / Rau củ",
+      "is_food": true
+    },
+    "enoki_mushroom": {
+      "name_vi": "Nấm kim châm",
+      "category": "Đạm thực vật / Rau củ",
+      "is_food": true
+    },
+    "bell_pepper": {
+      "name_vi": "Ớt chuông",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "eggplant": {
+      "name_vi": "Cà tím",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "cabbage": {
+      "name_vi": "Bắp cải",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "pumpkin": {
+      "name_vi": "Bí đỏ",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "water_spinach": {
+      "name_vi": "Rau muống",
+      "category": "Rau xanh",
+      "is_food": true
+    },
+    "sponge_gourd": {
+      "name_vi": "Mướp hương",
+      "category": "Rau củ",
+      "is_food": true
+    },
+    "corn": {
+      "name_vi": "Bắp (Ngô)",
+      "category": "Tinh bột / Rau củ",
+      "is_food": true
+    },
+    "potato": {
+      "name_vi": "Khoai tây",
+      "category": "Tinh bột / Rau củ",
+      "is_food": true
+    },
+    "sweet_potato": {
+      "name_vi": "Khoai lang",
+      "category": "Tinh bột / Rau củ",
+      "is_food": true
+    },
+    "onion": {
+      "name_vi": "Hành tây (Lưu ý: kiêng với phái kiêng ngũ vị tân)",
+      "category": "Gia vị / Ngũ vị tân",
+      "is_food": true
+    },
+    "garlic": {
+      "name_vi": "Tỏi (Lưu ý: kiêng với phái kiêng ngũ vị tân)",
+      "category": "Gia vị / Ngũ vị tân",
+      "is_food": true
+    },
+    "chili": {
+      "name_vi": "Ớt tươi",
+      "category": "Gia vị",
+      "is_food": true
+    },
+    "milk": {
+      "name_vi": "Sữa tươi / Sữa chua",
+      "category": "Sữa & Chế phẩm",
+      "is_food": true,
+      "dietary_note": "Chỉ dành cho Lacto-Vegetarian, cảnh báo với Vegan"
+    },
+    "eggs": {
+      "name_vi": "Trứng",
+      "category": "Trứng gia cầm",
+      "is_food": true,
+      "dietary_note": "Chỉ dành cho Ovo-Vegetarian, cảnh báo với Vegan"
+    },
+    "egg": {
+      "name_vi": "Trứng",
+      "category": "Trứng gia cầm",
+      "is_food": true,
+      "dietary_note": "Chỉ dành cho Ovo-Vegetarian, cảnh báo với Vegan"
+    },
+    "bread": {
+      "name_vi": "Bánh mì",
+      "category": "Tinh bột / Ngũ cốc",
+      "is_food": true
+    },
+    "bottle": {
+      "name_vi": "Chai lọ đựng sốt / nước tương",
+      "category": "Vật dụng / Gia vị đóng chai",
+      "is_food": false
+    },
+    "bowl": {
+      "name_vi": "Bát đĩa",
+      "category": "Dụng cụ nhà bếp",
+      "is_food": false
+    },
+    "cup": {
+      "name_vi": "Cốc / Ly",
+      "category": "Dụng cụ nhà bếp",
+      "is_food": false
+    }
+  },
+  "default_unknown": {
+    "name_vi": "Nguyên liệu chưa xác định",
+    "category": "Thực phẩm khác",
+    "is_food": true
+  }
+}
