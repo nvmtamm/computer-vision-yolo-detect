@@ -1,0 +1,33 @@
+# Environment & Secrets
+.env
+*.env.local
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Pytest / Test Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Model Weights & Binary Blobs
+*.pt
+*.onnx
+*.engine
+yolov8n.pt
+weights/*.pt
+!weights/README.md
+
+# OS & Editor specific
+.DS_Store
+.vscode/
+.idea/
