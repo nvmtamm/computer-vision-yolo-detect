@@ -1,0 +1,28 @@
+# Cấu hình dataset YOLOv8 cho các nguyên liệu rau củ chay Việt Nam
+# Dùng để huấn luyện mô hình Fine-tuned (veggie_best.pt)
+
+path: ./datasets/veggielife_ingredients
+train: images/train
+val: images/val
+test: images/test
+
+# Danh sách các class nguyên liệu chay đặc trưng
+names:
+  0: tofu
+  1: fried_tofu
+  2: tomato
+  3: carrot
+  4: broccoli
+  5: mushroom
+  6: straw_mushroom
+  7: king_oyster_mushroom
+  8: enoki_mushroom
+  9: cucumber
+  10: bell_pepper
+  11: eggplant
+  12: cabbage
+  13: pumpkin
+  14: water_spinach
+  15: sponge_gourd
+  16: corn
+  17: potato
